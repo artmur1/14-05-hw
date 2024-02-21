@@ -1,7 +1,9 @@
 # Домашнее задание к занятию 5. "`Elasticsearch`" - `Мурчин Артем`
 
 Dockerfile https://github.com/artmur1/14-05-hw/blob/main/Dockerfile.txt
+
 docker-compose.yml https://github.com/artmur1/14-05-hw/blob/main/docker-compose.yml.txt
+
 Конфиг https://github.com/artmur1/14-05-hw/blob/main/elasticsearch.yml.txt
 
 Составил Dockerfile-манифест для Elasticsearch.
