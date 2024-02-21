@@ -1,0 +1,2 @@
+cluster.name: netology-test
+network.host: 0.0.0.0
