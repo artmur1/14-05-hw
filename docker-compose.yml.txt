@@ -8,8 +8,8 @@ services:
       ELASTIC_USERNAME: "elastic"
       ELASTIC_PASSWORD: "test"
       discovery.type: single-node
-#    volumes:
-#      - ./config/elasticsearch.yml:/etc/elasticsearch/elasticsearch.yml:ro
+    volumes:
+      - ./config/elasticsearch.yml:/etc/elasticsearch/elasticsearch.yml:ro
     ports:
       - 9200:9200
       - 9300:9300
